@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "welcome",
+			"path": "../../welcome"
+		},
+		{
+			"name": "img",
+			"path": "../../techcamp/img"
+		},
+		{
+			"name": "Yash Mehdudiyyeti",
+			"path": "../../Yash Mehdudiyyeti"
+		},
+		{
+			"name": "bir iki",
+			"path": "../../bir iki"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

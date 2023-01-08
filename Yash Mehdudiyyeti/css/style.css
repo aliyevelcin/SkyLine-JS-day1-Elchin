@@ -1,0 +1,157 @@
+
+/* esas seyfe */
+a {
+    font-size:14px;
+    font-weight:700
+  }
+  .superNav {
+    font-size:13px;
+  }
+  .form-control {
+    outline:none !important;
+    box-shadow: none !important;
+  }
+  @media screen and (max-width:450px){
+    .centerOnMobile {
+      text-align:center
+    }
+    .ucdeneli{
+      display: block !important;
+    }
+    .ara {
+      padding-top: 30px;
+    }
+    .w-100{
+        width: 100% !important;
+        height: 100% !important
+    }
+    .caa {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+     
+    .d-sm-block {
+        display: block !important;
+    }
+    .logo {
+        padding-top: 50px;
+       }
+       .img-fluid {
+        width: 100%;
+       }
+       .input-group {
+        display: none;
+       }
+    .mx-auto {
+        display: none;
+    }
+    .tech   {
+        font-size:  0px !important;
+        letter-spacing: 20px !important ;
+    }
+    .sekilll1 {
+      width: 300px !important;
+    }
+    .para {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    .task {
+      padding-left: 0px !important;
+    }
+    .col {
+      padding-top: 30px;
+    }
+  }
+  @media (min-width:768px)and (max-width:768px){
+    .tech   {
+        font-size:  0px !important;
+        letter-spacing: 60px !important ;
+    }
+    .para {
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+    }
+    .ucdeneli {
+      display: block !important;
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+
+     }
+    .sekilll1 {
+      padding-top: 30px !important;
+    }
+    .card-body {
+      padding-top: 100px !important;
+    }
+     .ara {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 30px !important;
+
+  }
+  .caa {
+    padding-top: 30px;
+  }
+     
+    
+  }
+ 
+  @media (min-width:1024px)and (max-width:1024px){
+    .tech   {
+      font-size:  0px !important;
+      letter-spacing: 60px !important ;
+  }
+   
+  .ara {
+     
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+   
+  
+  .boot {
+    padding-top: 45px  !important;
+  }
+  .pro {
+    padding-top: 120px !important;
+  }
+  
+}
+  
+.caa {
+  font-weight: 900;
+}
+.examp {
+    font-family: sans-serif;
+     font-weight: bold;
+     padding-left: 30px;
+    padding-bottom:350px;
+    font-weight: bold;
+    font-size: 89px;
+ }
+.task {
+  font-family: sans-serif;
+   font-weight: bold;
+   padding-left: 400px;
+  padding-bottom:350px;
+}
+
+.ucdeneli {
+  display: flex;
+  justify-content: space-around;
+}
+.ara {
+     
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+ 
+ 
+
+.boot {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 70px;
+}
+
